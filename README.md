@@ -26,3 +26,13 @@ To compile HTML/CSS and JavaScript files for production:
 ```
 webpack --config webpack.config.js
 ```
+
+## Sublime 3
+
+```
+Ctrl + Shift + P
+Package Control: Install package
+'Babel'
+```
+
+At the bottom right of your sublime window, switch your build to 'babel (javascript)'.
